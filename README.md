@@ -1,4 +1,4 @@
-# Analisis-de-embudo-y-retencion-para-MercadoLibre
+# Analisis-de-embudo-y-retencion-para-empresa-Fintech
 Understand at what stage of the process users are lost and how their retention can be improved over time.
 Entender en qué etapa del proceso se pierden usuarios y cómo se puede mejorar su retención a lo largo del tiempo.
 
